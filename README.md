@@ -1,5 +1,5 @@
 
-## 🚗 Autonomous Vehicle System – Final Engineering Project
+## 🚗 Autonomous Vehicle System – Final Engineering Project 🤖
 
 An intelligent autonomous vehicle designed using **Arduino Mega 2560** and **Raspberry Pi 5**, capable of **GPS-guided navigation**, **real-time human detection (YOLO)**, **multi-sensor obstacle avoidance**, and seamless switching between **manual and autonomous control** modes.
 
